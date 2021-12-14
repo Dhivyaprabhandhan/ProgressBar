@@ -75,31 +75,3 @@ function MyTabs() {
 }
 
 export default MyTabs
-
-// export default function HomeTabs() {
-//   return (
-//     <NavigationContainer>
-//       <MyTabs />
-//     </NavigationContainer>
-//   );
-// }
-
-
-
-// import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-
-// const Tab = createBottomTabNavigator();
-
-// import HomeScreen from '../views/screen_components/Feeds/Index';
-// import OfferScreen from '../views/screen_components/Offers/Index';
-// import AccountScreen from '../views/screen_components/Account/Index';
-
-// function MyTabs() {
-//   return (
-//     <Tab.Navigator>
-//       <Tab.Screen name="HOME" component={HomeScreen} />
-//       <Tab.Screen name="OFFERS" component={OfferScreen} />
-//       <Tab.Screen name="ACCOUNT" component={AccountScreen} />
-//     </Tab.Navigator>
-//   );
-// }
