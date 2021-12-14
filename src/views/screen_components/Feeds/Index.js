@@ -13,6 +13,7 @@ render()
     return (
         <View style={{alignItems:'center', height:'100%', justifyContent:'center', paddingTop:'0%'}}>
           <Text>{"Store Listing"}</Text>
+          <Text>hi</Text>
         </View>
     )
 }
