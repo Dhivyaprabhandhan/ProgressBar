@@ -21,7 +21,7 @@ const StackNavigator = () =>(
       <Stack.Screen name ="Registrationscreen" component={Registrationscreen}></Stack.Screen>
       <Stack.Screen name ="UpdateUserDetailsScreen" component={UpdateUserDetailsScreen}></Stack.Screen>
       <Stack.Screen name ="DummyScreen" component={DummyScreen}></Stack.Screen>
-
+   
     </Stack.Navigator>
 )
 
